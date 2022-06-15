@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47895059-1fe5-427d-abc9-27113302be95": {
+      "ProjectGuid": "47895059-1fe5-427d-abc9-27113302be95",
+      "DisplayName": "Proyecto_Pet_Vet_1",
+      "ColorIndex": 0
+    },
+    "8222b9ac-8cc7-4386-8f2c-ce9fd2d71030": {
+      "ProjectGuid": "8222b9ac-8cc7-4386-8f2c-ce9fd2d71030",
+      "DisplayName": "WindowsFormsApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

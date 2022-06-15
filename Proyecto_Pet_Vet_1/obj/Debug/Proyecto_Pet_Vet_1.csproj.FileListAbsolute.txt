@@ -1,0 +1,149 @@
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe.config
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.pdb
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.AssemblyReference.cache
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Properties.Resources.resources
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.GenerateResource.cache
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.CoreCompileInputs.cache
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.exe
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.pdb
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_Pet_Vet_1\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Form1.resources
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe.config
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.pdb
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.EliminarAnimal.resources
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Form1.resources
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.InsertarAnimal.resources
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarAnimal.resources
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Properties.Resources.resources
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\Nico\Desktop\petvet2\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.pdb
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe.config
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.pdb
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.EliminarAnimal.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Form1.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.InsertarAnimal.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarAnimal.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Properties.Resources.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.GenerateResource.cache
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.pdb
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe.config
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.pdb
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.EliminarAnimal.resources
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Form1.resources
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.InsertarAnimal.resources
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarAnimal.resources
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Properties.Resources.resources
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.GenerateResource.cache
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.CoreCompileInputs.cache
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.exe
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.pdb
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.AssemblyReference.cache
+D:\Institutos\Union informatica\Programacion .Net - C#\Proyecto\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Inicio.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarCliente.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarVeterinario.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Clientes.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Inicio.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.ModificarCliente.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarVeterinario.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Veterinarios.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Enfermedad.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarEnfermedad.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Vacuna.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe.config
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.pdb
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarCliente.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarEnfermedad.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarFechaVacuna.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarVeterinario.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Clientes.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.EliminarAnimal.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.eliminarCliente.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.EliminarEnfermedad.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.EliminarVeterinario.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Enfermedad.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Form1.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Historia_Clinica.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Inicio.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.InsertarAnimal.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarAnimal.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.ModificarCliente.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarVeterinario.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Properties.Resources.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Vacuna.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Veterinarios.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.GenerateResource.cache
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.pdb
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.AssemblyReference.cache
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.registrarHistorial.resources
+C:\Users\Nico\Downloads\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.EliminarHistoriaClinica.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe.config
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.pdb
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarCliente.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarEnfermedad.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarFechaVacuna.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarVeterinario.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Clientes.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.EliminarAnimal.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Enfermedad.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Form1.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Historia_Clinica.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Inicio.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.InsertarAnimal.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarAnimal.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.ModificarCliente.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarVeterinario.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Properties.Resources.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.registrarHistorial.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Vacuna.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Veterinarios.resources
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.pdb
+C:\Users\Nico\Desktop\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarFechaVacuna.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Historia_Clinica.resources
+C:\Users\bruno\OneDrive\Escritorio\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.registrarHistorial.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe.config
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\bin\Debug\Proyecto_Pet_Vet_1.pdb
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.AssemblyReference.cache
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarCliente.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarEnfermedad.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarFechaVacuna.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.agregarVeterinario.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Clientes.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.EliminarAnimal.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Enfermedad.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Form1.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Historia_Clinica.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Inicio.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.InsertarAnimal.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarAnimal.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.ModificarCliente.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.modificarVeterinario.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Properties.Resources.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.registrarHistorial.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Vacuna.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.Veterinarios.resources
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.GenerateResource.cache
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.exe
+C:\Users\nico\Desktop\proyectos\Proyecto_C#_PetVet\Proyecto_Pet_Vet_1\obj\Debug\Proyecto_Pet_Vet_1.pdb
